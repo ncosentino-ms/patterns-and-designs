@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom.GodObject", "AnimalKingdom\AnimalKingdom.GodObject.csproj", "{BB00D8C3-A4D2-4EE4-B286-688526D1C999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom.Inheritance", "AnimalKingdom.Inheritance\AnimalKingdom.Inheritance.csproj", "{3ADDA683-9B5D-4929-B398-B9E26CE3888E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom.GodObject.Tests", "AnimalKingdom.GodObject.Tests\AnimalKingdom.GodObject.Tests.csproj", "{28742C9B-3B9C-4B68-9313-05EE075A108E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom.Inheritance.Tests", "AnimalKingdom.Inheritance.Tests\AnimalKingdom.Inheritance.Tests.csproj", "{8FB14280-DFA0-4AFA-8B47-7A39223907F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom.Composition", "AnimalKingdom.Composition\AnimalKingdom.Composition.csproj", "{76C8BA37-8C74-479C-B1AE-BCEBF30E497D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom.Composition.Tests", "AnimalKingdom.Composition.Tests\AnimalKingdom.Composition.Tests.csproj", "{93CEFE2F-20CC-4F57-BFD3-51F557C043CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB00D8C3-A4D2-4EE4-B286-688526D1C999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB00D8C3-A4D2-4EE4-B286-688526D1C999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB00D8C3-A4D2-4EE4-B286-688526D1C999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB00D8C3-A4D2-4EE4-B286-688526D1C999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADDA683-9B5D-4929-B398-B9E26CE3888E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADDA683-9B5D-4929-B398-B9E26CE3888E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADDA683-9B5D-4929-B398-B9E26CE3888E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADDA683-9B5D-4929-B398-B9E26CE3888E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28742C9B-3B9C-4B68-9313-05EE075A108E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28742C9B-3B9C-4B68-9313-05EE075A108E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28742C9B-3B9C-4B68-9313-05EE075A108E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28742C9B-3B9C-4B68-9313-05EE075A108E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB14280-DFA0-4AFA-8B47-7A39223907F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB14280-DFA0-4AFA-8B47-7A39223907F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB14280-DFA0-4AFA-8B47-7A39223907F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB14280-DFA0-4AFA-8B47-7A39223907F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C8BA37-8C74-479C-B1AE-BCEBF30E497D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C8BA37-8C74-479C-B1AE-BCEBF30E497D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C8BA37-8C74-479C-B1AE-BCEBF30E497D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C8BA37-8C74-479C-B1AE-BCEBF30E497D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CEFE2F-20CC-4F57-BFD3-51F557C043CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CEFE2F-20CC-4F57-BFD3-51F557C043CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CEFE2F-20CC-4F57-BFD3-51F557C043CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CEFE2F-20CC-4F57-BFD3-51F557C043CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D054D191-647F-4F1C-88C3-ECBB7A2EA5F4}
+	EndGlobalSection
+EndGlobal
